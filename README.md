@@ -4,7 +4,10 @@
 
 [Twitter](https://mobile.twitter.com/noriko4220)
 
-
+### About me 🤔🤔
+[X] Lazy
+[X] Not too bright
+[X] Somewhat annoying
 
 
 <!--
