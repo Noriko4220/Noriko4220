@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](/Images/FB_IMG_1600142064266.jpg)
+![Banner](https://drive.google.com/file/d/1Iv26zyThS39YU5FVrpsj4JG79T61wmTK/view?usp=drivesdk)
 <!--
 **Noriko4220/Noriko4220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
