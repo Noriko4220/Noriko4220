@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Banner](/Images/FB_IMG_1600142064266.jpg)
 <!--
 **Noriko4220/Noriko4220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
