@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](https://drive.google.com/file/d/1Iv26zyThS39YU5FVrpsj4JG79T61wmTK/view?usp=drivesdk)
+![Banner](https://scontent.fhan5-6.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/119590664_197910181692098_7363433668947382115_o.jpg?_nc_cat=107&_nc_sid=2d5d41&_nc_ohc=pnczAClhNSEAX9tVe8N&_nc_ht=scontent.fhan5-6.fna&tp=14&oh=b65d8a0da371374d2a6d177b4c45bb5e&oe=5F84AAE2 )
 <!--
 **Noriko4220/Noriko4220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
