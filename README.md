@@ -1,6 +1,7 @@
 <!-- ![Banner](https://scontent.fhan5-1.fna.fbcdn.net/v/t1.0-9/151783689_477720510300193_5843887570097693729_o.jpg?_nc_cat=109&ccb=3&_nc_sid=8bfeb9&_nc_ohc=Kl9KvmWIXqEAX_R0BTk&_nc_ht=scontent.fhan5-1.fna&oh=da119f544d6264845f19ad6b004d8002&oe=60589C91) -->
 ### Contact
 [Facebook](https://www.facebook.com/profile.php?id=100004663422919)
+
 [Twitter](https://mobile.twitter.com/noriko4220)
 ### About me
 - [x] im extra stupid please leave me alone
