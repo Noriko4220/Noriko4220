@@ -1,11 +1,11 @@
-![Banner](https://www.wallpaperflare.com/static/334/770/543/tree-branches-black-and-white-roof-wallpaper.jpg)
+![Banner](https://preview.redd.it/4lnbtvbhfao61.png?width=1920&format=png&auto=webp&s=b3f6566b4fe1ae3159b3656457f14f63190498c2)
 <!--### Contact
 [Facebook](https://www.facebook.com/profile.php?id=100004663422919)
 
 [Twitter](https://mobile.twitter.com/noriko4220)
 ### About me
 - [x] im extra stupid please leave me alone-->
-
+"Just play the game bro, it gets good after 7000hrs in bro, you only need to level up ADP bro"
 
 <!--
 **Noriko4220/Noriko4220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
