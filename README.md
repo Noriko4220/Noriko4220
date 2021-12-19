@@ -5,7 +5,7 @@
 [Twitter](https://mobile.twitter.com/noriko4220)
 ### About me
 - [x] im extra stupid please leave me alone-->
-"Just play the game bro, it gets good after 7000hrs in bro, you only need to level up ADP bro"
+"Just play the game bro, it gets good after 7000hrs in bro, you only need to level ADP bro"
 
 <!--
 **Noriko4220/Noriko4220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
